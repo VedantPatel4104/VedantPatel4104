@@ -13,16 +13,16 @@
 ### 📫 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/LinkedIn" target="_blank">
+  <a href="http://linkedin.com/in/vedant-patel-2aa189269" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/GitHub" target="_blank">
+  <a href="https://github.com/VedantPatel4104/VedantPatel4104" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:EmailId" target="_blank">
+  <a href="vedantkpatel.svmr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/Hackerrank" target="_blank">
+  <a href="https://www.hackerrank.com/profile/smartyart987" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
 </p>
